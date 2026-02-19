@@ -32,7 +32,7 @@ Final-Project/
 ## Screenshots
 
 ### Log-In Page
-<img src="images/loginpage.png" alt="Login Page" width="800"/>
+<img src="images/loginpage.png" alt="Login Page" width="1000"/>
 
 ### Products Page
-<img src="images/productspage.png" alt="Products Page" width="800"/>
+<img src="images/productspage.png" alt="Products Page" width="1000"/>
